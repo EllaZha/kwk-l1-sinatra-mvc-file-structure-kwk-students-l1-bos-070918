@@ -5,5 +5,5 @@ class Dog
     @breed=breed
     @age=age
   end
-  attr_accessor :name
+  
 end
